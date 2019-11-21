@@ -4,7 +4,9 @@
  [@JayChesler](https://twitter.com/JayChesler)
 
  **Currently:** Experience Producer @ McClatchy New Ventures Lab
+
  **Previously:** Faculty Associate @ Arizona State University, Co-Founder @ Terrainial VR
+ 
  **Education:** B.A. in Journalism, Master of Mass Communication @ Arizona State University
 
 ### 2019 
