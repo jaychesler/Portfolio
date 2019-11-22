@@ -48,7 +48,7 @@
 * On the Frontlines of the Border VR
   * [Stereoscopic 360 video] [not publicly released]
   * 360 video documentary (22 minute runtime) on immigration, Border Patrol and activism filmed on a GoPro Odyssey Google Jump rig.
-  * [First round of Google Jump Start creators] (https://www.blog.google/products/google-vr/sharing-our-first-round-jump-start-creators/)
+  * [First round of Google Jump Start creators](https://www.blog.google/products/google-vr/sharing-our-first-round-jump-start-creators/)
   * **My role:** Managed production and post-production deadlines and deliverables, filmed along border and in Border Patrol embed, created stereoscopic graphics and facial blurs
 
 ### 2016
