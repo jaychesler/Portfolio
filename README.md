@@ -26,12 +26,12 @@
 * Yahoo News XR Camp Fire collaboration
   * [AR/3D, Web](https://news.yahoo.com/thank-universe-love-universe-camp-194846478.html?utm_source=headtopics&utm_medium=news&utm_campaign=2019-11-09)
   * 3D assets for collaboration with McClatchy/Sacramento Bee and Yahoo News. Assets viewable in web or in AR through Yahoo News iOS app.
-  * **My role:** Represented McClatchy New Ventures Lab in technical meetings with Yahoo, managed deliverables and deadlines, drone photogrammetry, photogrammetry consulting
+  * **My role:** Represented McClatchy New Ventures Lab in technical meetings with Yahoo, project management, drone photogrammetry, photogrammetry consulting
 
 * Camp Fire: One Year Later
   * [AR, Web, location based experience](https://www.sacbee.com/news/local/article236638773.html)
   * AR-enabled art gallery event. First AR location-based experience for McClatchy New Ventures Lab and Sacramento Bee.
-  * **My role:** Represented technical team in event meetings with Sacramento Bee, produced videos for AR overlays, managed deliverables and deadlines
+  * **My role:** Represented technical team in event meetings with Sacramento Bee, produced videos for AR overlays, project management
 
 ### 2018
 * 2018 McClatchy New Ventures Lab Storytellers in Residence bootcamp
@@ -56,15 +56,15 @@
   * [360 video](https://www.youtube.com/watch?v=V8fKKGaEsIQ)
   * 360 video documentary (7 minute runtime) on immigration filmed on a 3D-printed 6-camera GoPro rig.
   * [2017 Oculus NFFTYX Film Festival selection](https://issuu.com/nffty/docs/nffty2017_festivalguide_print/10)
-  * **My role:** Manually stitched 360 video in Kolor Autopano, managed post-production deliverables and deadlines, festival application writing
+  * **My role:** Manually stitched 360 video in Kolor Autopano, post-production project management, festival application writing
 
 * Navy Pier/Louis Vuitton America's Cup Chicago 2016 - VIP 360 experience
   * [360 video](https://www.youtube.com/watch?v=4y2pav5VhZU)
   * 360 video branded content experience for Chicago's Navy Pier filmed on a 7-camera GoPro rig
-  * **My role:** Filmed at multi-day event, managed post-production deliverables and deadlines, stabilized boat and walking motion shots
+  * **My role:** Filmed at multi-day event, post-production project management, stabilized boat and walking motion shots
 
 * Cronkite Border VR
   * [Mobile VR, Google Cardboard](https://apps.apple.com/us/app/cronkite-border-vr/id1061660262)
   * Interactive Google Cardboard experience combining rendered 3D environments with 360 video in non-linear narrative
   * [2016 NABEF Innovation Award winner](https://cronkite.asu.edu/news-and-events/news/cronkite-school-wins-nabef-innovation-award-virtual-reality-apps)
-  * **My role:** Managed Unity production deliverables and deadlines, Unity production
+  * **My role:** Unity project management, Unity production
