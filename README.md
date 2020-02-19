@@ -5,7 +5,7 @@
  
  [@JayChesler](https://twitter.com/JayChesler)
  
- Curated, traditional portfolio (with visuals!) tk at JayChesler.com
+ Curated, traditional portfolio (with visuals!) tk at [JayChesler.com](www.jaychesler.com)
 
  **Currently:**  Producer @ McClatchy 
 
