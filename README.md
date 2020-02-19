@@ -5,11 +5,34 @@
  
  [@JayChesler](https://twitter.com/JayChesler)
 
- **Currently:** Experience Producer @ McClatchy New Ventures Lab
+ **Currently:**  Producer @ McClatchy 
 
- **Previously:** Faculty Associate @ Arizona State University, Co-Founder @ Terrainial VR
+ **Previously:** Experience Producer @ McClatchy New Ventures Lab, Faculty Associate @ Arizona State University, Co-Founder @ Terrainial VR
 
  **Education:** B.A. in Journalism, Master of Mass Communication @ Arizona State University
+
+ **Primary skills:** High-tech storytelling, project management, photogrammetry
+
+### 2020
+* Sacramento City Council districts map
+  * [Map, Data, Web](https://www.sacbee.com/news/local/article240092438.html)
+  * Leaflet web map built with QGIS showing Sacramento City Council districts
+  * **My role:** Gathered geodata from the city, assembled + styled in QGIS and shipped for web with Leaflet
+
+* North Sacramento homeless sleeping cabins camp
+  * [Video, Drone](https://www.sacbee.com/news/local/homeless/article240318191.html)
+  * Drone video (and A1 newspaper photo) to accompany a news story about the develompent of a sleeping cabin camp for the homeless
+  * **My role:** Shot drone video on DJI Inspire 2, edited on Adobe Premier
+
+*  Timeline of McClatchy family's history in news
+  * [Web](https://www.sacbee.com/news/nation-world/national/article239736798.html)
+  * Web timeline with text and archival photos of McClatchy family's news legacy in Sacramento
+  * **My role:** Created timeline template with HTML and CSS, tweaked for functionality within company's CMS, found visuals for this timeline
+
+* Fresnoland Lab page
+  * [Web](https://www.fresnobee.com/fresnoland/article239847328.html)
+  * Landing page and explainer for a donation-funded reporting lab
+  * **My role:** Built custom page functional within company's CMS using HTML, CSS and JavaScript, altered existing JavaScript templates to work with AMP-compliant fallbacks
 
 ### 2019 
 * Actual Reality
@@ -67,4 +90,4 @@
   * [Mobile VR, Google Cardboard](https://apps.apple.com/us/app/cronkite-border-vr/id1061660262)
   * Interactive Google Cardboard experience combining rendered 3D environments with 360 video in non-linear narrative
   * [2016 NABEF Innovation Award winner](https://cronkite.asu.edu/news-and-events/news/cronkite-school-wins-nabef-innovation-award-virtual-reality-apps)
-  * **My role:** Unity project management, Unity production
+  * **My role:** Unity project management, Unity dev work
