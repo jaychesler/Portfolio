@@ -4,6 +4,8 @@
  jaychesler@gmail.com
  
  [@JayChesler](https://twitter.com/JayChesler)
+ 
+ Curated, traditional portfolio (with visuals!) tk at JayChesler.com
 
  **Currently:**  Producer @ McClatchy 
 
