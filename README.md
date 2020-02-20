@@ -27,9 +27,9 @@
   * **My role:** Shot drone video on DJI Inspire 2, edited on Adobe Premier
 
 *  Timeline of McClatchy family's history in news
-  * [Web](https://www.sacbee.com/news/nation-world/national/article239736798.html)
-  * Web timeline with text and archival photos of McClatchy family's news legacy in Sacramento
-  * **My role:** Created timeline template with HTML and CSS, tweaked for functionality within company's CMS, found visuals for this timeline
+   * [Web](https://www.sacbee.com/news/nation-world/national/article239736798.html)
+   * Web timeline with text and archival photos of McClatchy family's news legacy in Sacramento
+   * **My role:** Created timeline template with HTML and CSS, tweaked for functionality within company's CMS, found visuals for this timeline
 
 * Fresnoland Lab page
   * [Web](https://www.fresnobee.com/fresnoland/article239847328.html)
