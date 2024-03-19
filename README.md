@@ -1,5 +1,5 @@
 # Jayson Chesler
- VR and AR producer. At the intersection of nonfiction storytelling and technology.
+Award-winning XR and 3D producer at the intersection of media and technology.
 
  jaychesler@gmail.com
  
@@ -7,13 +7,25 @@
  
  Curated, traditional portfolio with visuals at [JayChesler.com](https://www.jaychesler.com)
 
- **Currently:**  Producer @ McClatchy 
+ **Currently:**  Open to opportunities 
 
- **Previously:** Experience Producer @ McClatchy New Ventures Lab, Faculty Associate @ Arizona State University, Co-Founder @ Terrainial VR
+ **Previously:** Technical PM @ Digital Giant, Experience Producer @ McClatchy New Ventures Lab, Faculty Associate @ Arizona State University, Co-Founder @ Terrainial VR
 
  **Education:** B.A. in Journalism, Master of Mass Communication @ Arizona State University
 
- **Primary skills:** High-tech storytelling, project management, photogrammetry
+ **Primary skills:** 3D production, high-tech storytelling, project management
+ 
+### 2021
+* Hyundai Motors Europe car configurators
+  * [3D, Web, Rendered](https://www.hyundai.com/uk/en/models/all-new-kona/configurator.html#/exterior/colours)
+  * Pre-rendered images of 3D car models configured with product accuracy across thousands of trims, colors and European countries
+  * **My role:** Led team of 3D artists and Unity developers in production of 2021 releases, fully re-worked production pipeline to follow Agile methodologies (increased iteration speed by roughly 33%)
+ 
+* Ford F-150 Lightning Strike Anywhere experience
+  * [AR, Android/iOS](https://media.ford.com/content/fordmedia/fna/us/en/news/2021/11/09/f-150-lightning-can-strike-anywhere.html)
+  * AR app showcasing photorealistic 3D model of Ford's F-150 Lightning electric truck
+  * [Featured on The Tonight Show Starring Jimmy Fallon](https://twitter.com/jimmyfallon/status/1472565181658116106?lang=en)
+  * **My role:** Quality assurance project management before release, producer on in-app video trailer
 
 ### 2020
 * Sacramento City Council districts map
